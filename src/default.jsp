@@ -29,7 +29,7 @@
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
       <h1 class="cover-heading">Does it have snakes?</h1>
-      <p class="lead">A safety resource from SRAVAN ENTREDA.</p>
+      <p class="lead">A safety resource from AWS Cloud.</p>
       <iframe width="727" height="409" src="https://www.youtube.com/embed/psxisXB8CP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <iframe src="https://giphy.com/embed/YOcrJ50KSnVE4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/telugu-YOcrJ50KSnVE4">via GIPHY</a></p>
       <!--Intro -->
