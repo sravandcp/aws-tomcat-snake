@@ -30,7 +30,8 @@
     <div id="hate" class="container snakes snake-hater">
       <h1 class="cover-heading">Does it have snakes?</h1>
       <p class="lead">A safety resource from AWS Cloud.</p>
-      <iframe width="727" height="409" src="https://www.youtube.com/embed/psxisXB8CP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="727" height="409" src="https://www.youtube.com/embed/_PtSWvimIJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <p class="lead">wATCH VIDEO IN Cloud.</p>
       <iframe src="https://giphy.com/embed/YOcrJ50KSnVE4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/telugu-YOcrJ50KSnVE4">via GIPHY</a></p>
       <!--Intro -->
       <iframe src="https://giphy.com/embed/r4IsUe0hQ5TBS" width="480" height="221" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/baahubali-tollywood-ramya-krishna-r4IsUe0hQ5TBS">via GIPHY</a></p>
