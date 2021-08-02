@@ -29,7 +29,8 @@
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
       <h1 class="cover-heading">Does it have snakes?</h1>
-      <p class="lead">A safety resource for snake haters.</p>
+      <p class="lead">A safety resource from SRAVAN ENTREDA.</p>
+      <iframe src="https://giphy.com/embed/YOcrJ50KSnVE4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/telugu-YOcrJ50KSnVE4">via GIPHY</a></p>
       <!--Intro -->
       <h2>Do you or a loved one hate snakes?</h2>
       <p>Snakes are a controversial topic. Some people love'em, some people just can't stand them. How do you get by in a world full of snakes?</p>
